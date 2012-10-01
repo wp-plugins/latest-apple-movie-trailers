@@ -37,6 +37,7 @@ A5. This is best used on a full-width page if you have one.
 == Screenshots ==
 
 1. Latest Movie Trailers displaying from Apple.com
+2. Plugin Settings Page
 
 == Changelog ==
 
@@ -52,7 +53,7 @@ A5. This is best used on a full-width page if you have one.
 = 1.2 =
 * Just updated my plugin link, added donation link and updated tags.
 
-= 1.3=
+= 1.3 =
 * Changed from using tables to divs for displaying the list of movie trailers.
 * New option in the settings page allows you to have the description underneith the poster or on the side of it.
 * Styling has been added for display support for all WordPress themes.
