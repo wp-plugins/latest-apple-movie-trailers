@@ -6,9 +6,8 @@ Requires at least: 3.1
 Tested up to: 3.4.2
 Stable tag: trunk
 
-Displays the latest movie trailers from featured on Apple.com - http://trailers.apple.com/
-
-Each trailer listed comes along with the movie poster, synopsis of the film and Facebook and Twitter share links.
+Displays the latest movie trailers from featured on Apple.com 
+Each trailer listed comes along with the movie poster and synopsis.
 
 == Description ==
 
