@@ -105,15 +105,15 @@ function apple_latest_trailers_install(){
 	add_option("lamt_display_many", "10", "", "yes");
 	add_option("lamt_poster_size", "poster.jpg", "", "yes");
 	add_option("lamt_caption_position", "next", "", "yes");
-	activate_sebsstudio_lamt_plugin();
+	//activate_sebsstudio_lamt_plugin();
 }
 
-function apple_latest_trailers_remove() {
+function apple_latest_trailers_remove(){
 	/* Deletes the database field */
 	delete_option('lamt_display_many');
 	delete_option('lamt_poster_size');
 	delete_option('lamt_caption_position');
-	deactivate_sebsstudio_lamt_plugin();
+	//deactivate_sebsstudio_lamt_plugin();
 }
 
 add_action('wp_enqueue_scripts', 'latest_apple_movie_trailers_stylesheet');
